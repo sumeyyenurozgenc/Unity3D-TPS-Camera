@@ -11,3 +11,7 @@ In this example, there is a cube that you can move with arrow keys and the main 
 Used for real time positioning of the LateUpdate camera. Its most common use is for the camera that follows the character after it moves.
 
 ![tps](https://user-images.githubusercontent.com/59045890/91769209-9a7bd180-ebe7-11ea-833d-4502396deaa5.png)
+
+In this code, to move the cube X and Z axis that left and right movements.
+
+![MoveXZAxis](https://user-images.githubusercontent.com/59045890/91769428-09592a80-ebe8-11ea-8c56-b2b4302a664e.png)
